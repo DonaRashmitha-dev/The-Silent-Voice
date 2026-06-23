@@ -24,8 +24,6 @@ A walkthrough of the app — onboarding, the Talk hub, sign language tools, acce
 ![Screenshot 16](screenshots/screenshot16.png)
 ![Screenshot 17](screenshots/screenshot17.png)
 
-*(Captions intentionally left out here rather than guessed — happy to add 1-line captions under each once you tell me what's in them.)*
-
 ✨ Features
 | Feature | Status |
 |---|---|
